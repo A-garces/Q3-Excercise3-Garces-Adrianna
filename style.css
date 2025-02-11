@@ -1,0 +1,18 @@
+body {
+    background-color: beige;
+    color: rgb(0, 0, 0);
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.container {
+    max-width: 600px;
+    padding: 2%;
+    border-radius: 5%;
+    margin-top: 10%;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+}
